@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/Version-1.0.1-blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 [![Discord](https://img.shields.io/badge/Discord-Únete%20Ahora-7289DA?logo=discord)](https://discord.gg/distrito-gta)
-[![Estado del Juego](https://img.shields.io/badge/Estado-Apagado-brightred)](https://distrito-gta.com)
+[![Estado del Juego](https://img.shields.io/badge/Estado-Apagado-red)](https://distrito-gta.com)
 
 </div>
 
